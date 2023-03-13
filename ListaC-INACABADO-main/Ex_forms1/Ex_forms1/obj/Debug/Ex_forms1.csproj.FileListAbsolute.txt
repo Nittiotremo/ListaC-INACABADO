@@ -1,0 +1,22 @@
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\bin\Debug\Ex_forms1.exe.config
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\bin\Debug\Ex_forms1.exe
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\bin\Debug\Ex_forms1.pdb
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.Form1.resources
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.Properties.Resources.resources
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.exe
+C:\Users\User\source\repos\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.pdb
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.AssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.GenerateResource.cache
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.exe
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\obj\Debug\Ex_forms1.pdb
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\bin\Debug\Ex_forms1.exe.config
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\bin\Debug\Ex_forms1.exe
+C:\Users\User\Documents\Visual Studio 2022\ListaC-INACABADO-main\Ex_forms1\Ex_forms1\bin\Debug\Ex_forms1.pdb
