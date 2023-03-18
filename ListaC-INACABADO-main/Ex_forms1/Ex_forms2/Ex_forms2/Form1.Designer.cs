@@ -47,8 +47,18 @@
             this.label4 = new System.Windows.Forms.Label();
             this.txt_Nome = new System.Windows.Forms.Label();
             this.txt_Partido = new System.Windows.Forms.Label();
-            this.pic_Candidato = new System.Windows.Forms.PictureBox();
             this.txt_numero = new System.Windows.Forms.TextBox();
+            this.pic_Candidato = new System.Windows.Forms.PictureBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.NumbNal = new System.Windows.Forms.Label();
+            this.NumbGugu = new System.Windows.Forms.Label();
+            this.NumbOreo = new System.Windows.Forms.Label();
+            this.NumbBranco = new System.Windows.Forms.Label();
+            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pic_Candidato)).BeginInit();
             this.SuspendLayout();
             // 
@@ -172,6 +182,7 @@
             this.bt_Branco.TabIndex = 11;
             this.bt_Branco.Text = "Branco";
             this.bt_Branco.UseVisualStyleBackColor = false;
+            this.bt_Branco.Click += new System.EventHandler(this.bt_Branco_Click);
             // 
             // bt_Corrige
             // 
@@ -196,6 +207,7 @@
             this.bt_Confirma.TabIndex = 13;
             this.bt_Confirma.Text = "Confirma";
             this.bt_Confirma.UseVisualStyleBackColor = false;
+            this.bt_Confirma.Click += new System.EventHandler(this.bt_Confirma_Click);
             // 
             // label2
             // 
@@ -243,14 +255,6 @@
             this.txt_Partido.TabIndex = 20;
             this.txt_Partido.Text = "--";
             // 
-            // pic_Candidato
-            // 
-            this.pic_Candidato.Location = new System.Drawing.Point(140, 49);
-            this.pic_Candidato.Name = "pic_Candidato";
-            this.pic_Candidato.Size = new System.Drawing.Size(160, 143);
-            this.pic_Candidato.TabIndex = 21;
-            this.pic_Candidato.TabStop = false;
-            // 
             // txt_numero
             // 
             this.txt_numero.Location = new System.Drawing.Point(47, 160);
@@ -258,6 +262,109 @@
             this.txt_numero.Size = new System.Drawing.Size(87, 20);
             this.txt_numero.TabIndex = 22;
             this.txt_numero.Click += new System.EventHandler(this.txt_numero_Click);
+            this.txt_numero.TextChanged += new System.EventHandler(this.txt_numero_TextChanged);
+            // 
+            // pic_Candidato
+            // 
+            this.pic_Candidato.Cursor = System.Windows.Forms.Cursors.Arrow;
+            this.pic_Candidato.InitialImage = null;
+            this.pic_Candidato.Location = new System.Drawing.Point(149, 61);
+            this.pic_Candidato.Name = "pic_Candidato";
+            this.pic_Candidato.Size = new System.Drawing.Size(160, 143);
+            this.pic_Candidato.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pic_Candidato.TabIndex = 21;
+            this.pic_Candidato.TabStop = false;
+            this.pic_Candidato.Click += new System.EventHandler(this.pic_Candidato_Click);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(3, 58);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(73, 13);
+            this.label5.TabIndex = 23;
+            this.label5.Text = "Nal Do Canal:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(3, 71);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(68, 13);
+            this.label6.TabIndex = 24;
+            this.label6.Text = "Gugu Negro:";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(3, 87);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(72, 13);
+            this.label7.TabIndex = 25;
+            this.label7.Text = "Homem Oreo:";
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(3, 100);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(44, 13);
+            this.label8.TabIndex = 26;
+            this.label8.Text = "Branco:";
+            // 
+            // NumbNal
+            // 
+            this.NumbNal.AutoSize = true;
+            this.NumbNal.Location = new System.Drawing.Point(73, 58);
+            this.NumbNal.Name = "NumbNal";
+            this.NumbNal.Size = new System.Drawing.Size(13, 13);
+            this.NumbNal.TabIndex = 27;
+            this.NumbNal.Text = "--";
+            // 
+            // NumbGugu
+            // 
+            this.NumbGugu.AutoSize = true;
+            this.NumbGugu.Location = new System.Drawing.Point(67, 71);
+            this.NumbGugu.Name = "NumbGugu";
+            this.NumbGugu.Size = new System.Drawing.Size(13, 13);
+            this.NumbGugu.TabIndex = 28;
+            this.NumbGugu.Text = "--";
+            // 
+            // NumbOreo
+            // 
+            this.NumbOreo.AutoSize = true;
+            this.NumbOreo.Location = new System.Drawing.Point(73, 87);
+            this.NumbOreo.Name = "NumbOreo";
+            this.NumbOreo.Size = new System.Drawing.Size(13, 13);
+            this.NumbOreo.TabIndex = 29;
+            this.NumbOreo.Text = "--";
+            // 
+            // NumbBranco
+            // 
+            this.NumbBranco.AutoSize = true;
+            this.NumbBranco.Location = new System.Drawing.Point(44, 100);
+            this.NumbBranco.Name = "NumbBranco";
+            this.NumbBranco.Size = new System.Drawing.Size(13, 13);
+            this.NumbBranco.TabIndex = 30;
+            this.NumbBranco.Text = "--";
+            // 
+            // richTextBox1
+            // 
+            this.richTextBox1.Location = new System.Drawing.Point(6, 5);
+            this.richTextBox1.Name = "richTextBox1";
+            this.richTextBox1.Size = new System.Drawing.Size(128, 50);
+            this.richTextBox1.TabIndex = 31;
+            this.richTextBox1.Text = "Nal do Canal 22    Homem Oreo 12              Gugu Negro 50";
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(217, 253);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(92, 23);
+            this.button1.TabIndex = 32;
+            this.button1.Text = "Fechar Eleição";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
@@ -265,6 +372,16 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(587, 287);
+            this.Controls.Add(this.button1);
+            this.Controls.Add(this.richTextBox1);
+            this.Controls.Add(this.NumbBranco);
+            this.Controls.Add(this.NumbOreo);
+            this.Controls.Add(this.NumbGugu);
+            this.Controls.Add(this.NumbNal);
+            this.Controls.Add(this.label8);
+            this.Controls.Add(this.label7);
+            this.Controls.Add(this.label6);
+            this.Controls.Add(this.label5);
             this.Controls.Add(this.txt_numero);
             this.Controls.Add(this.pic_Candidato);
             this.Controls.Add(this.txt_Partido);
@@ -317,6 +434,16 @@
         private System.Windows.Forms.Label txt_Partido;
         private System.Windows.Forms.PictureBox pic_Candidato;
         private System.Windows.Forms.TextBox txt_numero;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.Label label8;
+        private System.Windows.Forms.Label NumbNal;
+        private System.Windows.Forms.Label NumbGugu;
+        private System.Windows.Forms.Label NumbOreo;
+        private System.Windows.Forms.Label NumbBranco;
+        private System.Windows.Forms.RichTextBox richTextBox1;
+        private System.Windows.Forms.Button button1;
     }
 }
 

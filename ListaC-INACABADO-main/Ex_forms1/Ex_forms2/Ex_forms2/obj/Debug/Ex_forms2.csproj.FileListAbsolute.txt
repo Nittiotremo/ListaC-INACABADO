@@ -9,3 +9,14 @@ C:\Users\User\source\repos\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.csproj.Genera
 C:\Users\User\source\repos\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.csproj.CoreCompileInputs.cache
 C:\Users\User\source\repos\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.exe
 C:\Users\User\source\repos\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.pdb
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\bin\Debug\Ex_forms2.exe.config
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\bin\Debug\Ex_forms2.exe
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\bin\Debug\Ex_forms2.pdb
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.Form1.resources
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.Properties.Resources.resources
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.exe
+C:\Users\User\source\repos\ListaC-INACABADO-main\ListaC-INACABADO-main\Ex_forms1\Ex_forms2\Ex_forms2\obj\Debug\Ex_forms2.pdb
